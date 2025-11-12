@@ -8,14 +8,14 @@ Aplicação didática que simula um sistema de pedidos com a aplicação de 4 pa
 - **Adapter** (`adapter_pattern.py`) — integração com um serviço de entrega externo que possui interface diferente.
 
 ## Estrutura
-notificador_pedidos/
-├── main.py
-├── database_singleton.py
-├── payment_strategy.py
-├── observer_pattern.py
-├── adapter_pattern.py
-├── README.md
-└── RESUMO.md
+notificador_pedidos/      
+├── main.py   
+├── database_singleton.py    
+├── payment_strategy.py    
+├── observer_pattern.py      
+├── adapter_pattern.py      
+├── README.md        
+└── RESUMO.md       
 
 ## Requisitos
 - Python 3.8+ (testado com Python 3.10)
